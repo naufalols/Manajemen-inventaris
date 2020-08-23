@@ -1,0 +1,15 @@
+ .navbar-mobile {
+ 	visibility: hidden;
+ }
+
+ @media screen and (max-width: 750px) {
+ 	.navbar {
+ 		visibility: hidden;
+ 	}
+
+ 	.navbar-mobile {
+ 		visibility: visible;
+ 	}
+
+
+ }
